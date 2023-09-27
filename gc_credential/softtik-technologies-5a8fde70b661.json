@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "softtik-technologies",
+  "private_key_id": "5a8fde70b6614d5aa57e352723c464d135231029",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDSx9al8+YFlath\nH3OSn47pvtFgwpckWTTeYbhM+x2ZlKk1tRZ/ZDXkT0AoTaGXdCaLi9Tmv3wOx5CM\nPqUabca7mtFzKQd9h3nEwk37KLayZRwDQwXy9lX3rVwU7sIVPHsqWKN09YuNuKz/\nBjsza6g980uzK5fWcG7AwUMgVVp9Rgldae0bToMFt89OqC+S9r5N1Qu1zb/pKpde\nkh+6oNGZ9GVtXB6cZJxa/uPsSgFh+jd7flfZO0T7E5RcktbS+hocSS4Ttp1Fr1vA\nKawOY84V8WoMXwCUA4KcbWuoYr1hFLtHjiqhc1XVzbmFVOR0E1sED55REanoqMOt\nxbYBzoVZAgMBAAECggEAAYJA8vfpmvtg6k1wdTmbayispMPL02yojFl4eWOYSQXH\nhs0Eq9WGrbtT/x3cJOKF1pyiAeNXwt7SlfBqW+OyhxwC+Q8vgKpoOJx39K7sTN9c\nqZjQmXZCNAdLiBJT9RU1X/6Zr/AEh1eNtHch1BrGjef4kCAlInm0T0Cq53e48bnb\n6JvrplDyiLVG5plxYJu3kAfEPhh2DJeFdrZpe+XpKtVWHTn2vUyNdhZcaxLaQRfZ\nE533uSsln2Bhi3h2A2uGF5BI540n7iflLh+9lnrGf9EtyLD0e21ydA0wVD6MDSwM\nUQKrMQ2f6YPeh/U42bRwxIBGX+MqRX7TLwQ+dohL8QKBgQD5HaTjprEd8WYvaBBs\nCwkkt7Cc/SaT3WpV+OVcBNRE8/11UINOw0X+qLhq4a+gBXuV0pvOlcJyXes76B+n\nWFaWDPtQgQtDXqun0Hxbz+axlTrHlMIdnrLD9VVcWl1dCKyI/AqbjLxax7dRYRz8\nvY5o2C2z2qdMBg2K49hkog76KQKBgQDYmv6I84ErJpEAn/Ez2S93wTWKjxGj7xA8\n52nyITjnGclmoYuL1WnHtPbdwhUNJiRcyNoqPO0aFl5YIGjTdSlXZsBGTLgMcqvv\naB1WrByrxBP2PABhsTXMOklOTRC+J2BbvGm7kg1snr+MLv6BxphVUMMVanTr0K6h\n/Xd1YCb3sQKBgQCyahnC9YqacF6IC1bfmpPE2U5DUUdE1WooAqd53PeOHtTjJXO1\ngENsHLhfzB01VVfquLjgHv/xWvRzpk6tUqZItylywckoSfBUswut0dteSgucDx1r\ni1Jq6BVnnEyLqf+v6BtMxmHL/od7YDsbhEMvMcyhqDLzTs56L662fB6P6QKBgQDF\nug8akzZZXpZFPLvhOaQkLIIknt9ah5OKFTFYb01TYO3Buzv4hPNP83jbDB1NaIEP\nFeZZYk6KXtr2lXc7eJsphsmEIuprqo4bOC53/RsbDR2vzCwJAcx7RsW+LYlYG/fR\nJhhaukN44R036Xo4m0JZtySuOwTKcy/G/er7ga9wsQKBgBGdEax8VAwVzCBVfeik\n7B67DXH/lYbOrLCDvB7Y8KYFihdDvW0bs07lGZeZuMuF+Vi7RRsDu1kKRXe4AWw9\nFlQlVlPwcnAWD9MfRNFagcr83qKIDlo+9Hhb9sfpeRmPiK/c2aWWcrIZeTuT2ioR\nBLInojM4+KhyozOPbUaoSnR8\n-----END PRIVATE KEY-----\n",
+  "client_email": "softtik-gc@softtik-technologies.iam.gserviceaccount.com",
+  "client_id": "107989550049279350457",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/softtik-gc%40softtik-technologies.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
